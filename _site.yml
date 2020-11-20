@@ -10,6 +10,8 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
+    - text: "Projects"     ##### the new
+      href: projects.html  ##### stuff
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
