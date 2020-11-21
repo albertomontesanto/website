@@ -1,10 +1,9 @@
 ---
 title: "About me"
 ---
-Researcher in Genetics
-Laboratory of Genetics
-Deparment of Biology, Ecology and Heart Sciences
-University of Calabria
+## Actual position
+Researcher in Genetics, Laboratory of Genetics, Deparment of Biology, Ecology and Heart Sciences, University of Calabria
+
 ## [My UniCal webpage](https://www.unical.it/portale/strutture/dipartimenti_240/dibest/docenti/montesanto/)
 
 ## My courses
