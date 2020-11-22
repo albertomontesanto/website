@@ -22,10 +22,13 @@ navbar:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:alberto.montesanto@unical.it                      # CHANGE HERE 
+    - text: "Prova"
+      icon: fa-adjust
+      href: https://github.com/albertomontesanto  
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/albertomontesanto         # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: spacelab
+    highlight: haddock
