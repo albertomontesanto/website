@@ -25,6 +25,9 @@ navbar:
     - text: "Prova"
       icon: fa-adjust
       href: https://github.com/albertomontesanto  
+    - text: "Prova"
+      icon: fa-adjust
+      href: https://github.com/albertomontesanto  
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/albertomontesanto         # CHANGE HERE 
