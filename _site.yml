@@ -1,15 +1,15 @@
-name: "ALBERTO"                                  # CHANGE HERE 
+name: "FDP-Lab"                                  # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "ALBERTO MONTESANTO"                               # CHANGE HERE 
+  title: "FDP-Lab"                               # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Research"
       icon: fa-user 
-      href: about.html
+      href: research.html
     - text: "Projects"     ##### the new
       href: projects.html  ##### stuff
     - text: "CV"
@@ -19,13 +19,13 @@ navbar:
       icon: fa-rss
       href: https://YOURGITHUB.github.io/blog/    # CHANGE HERE 
   right:
-    - text: "Contact me"
+    - text: "Contact"
       icon: fa-envelope-o
       href: mailto:alberto.montesanto@unical.it                      # CHANGE HERE 
-    - text: "Prova"
+    - text: "People"
       icon: fa-adjust
       href: https://github.com/albertomontesanto  
-    - text: "Prova"
+    - text: "Pubblications"
       icon: fa-adjust
       href: https://github.com/albertomontesanto  
     - text: "GitHub"
