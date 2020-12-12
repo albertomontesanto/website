@@ -31,8 +31,6 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/albertomontesanto         # CHANGE HERE 
-    - text: "Donate"
-      href: donate.md         # CHANGE HERE 
 output:
   html_document:
     theme: spacelab
