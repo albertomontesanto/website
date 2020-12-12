@@ -1,0 +1,3 @@
+# Donation Button
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alberto.montesanto%40gmail.com&currency_code=EUR)
