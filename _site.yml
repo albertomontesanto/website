@@ -24,7 +24,7 @@ navbar:
       href: mailto:alberto.montesanto@unical.it                      # CHANGE HERE 
     - text: "People"
       icon: fa-adjust
-      href: https://github.com/albertomontesanto  
+      href: people.html  ##### stuff  
     - text: "Pubblications"
       icon: fa-adjust
       href: https://github.com/albertomontesanto  
